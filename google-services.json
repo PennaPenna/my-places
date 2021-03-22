@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "7505765384",
+    "firebase_url": "https://database-testing-bfcdd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "database-testing-bfcdd",
+    "storage_bucket": "database-testing-bfcdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7505765384:android:0fe8b078f7b63aa47c9dbd",
+        "android_client_info": {
+          "package_name": "shoppinglist.firebaseapp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7505765384-s5l8n4nol43ud86mhmhah84ddhka572k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD20_9xbDqJx6n2fhX32eRp2R4wc6Wu9jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7505765384-s5l8n4nol43ud86mhmhah84ddhka572k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
